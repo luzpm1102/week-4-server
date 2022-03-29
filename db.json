@@ -10,6 +10,7 @@
       "publisher": "Phoenix Labs",
       "developer": "Phoenix Labs, Iron Galaxy",
       "release_date": "2019-05-21",
+      "price": 34,
       "comments": [
         {
           "id": 11,
@@ -33,6 +34,7 @@
       "publisher": "Wargaming",
       "developer": "Wargaming",
       "release_date": "2011-04-12",
+      "price": 34,
       "comments": [
         {
           "id": 21,
@@ -56,6 +58,7 @@
       "publisher": "Digital Extremes",
       "developer": "Digital Extremes",
       "release_date": "2013-03-25",
+      "price": 34,
       "comments": [
         {
           "id": 31,
@@ -79,6 +82,7 @@
       "publisher": "Gaijin Distribution KFT",
       "developer": "Darkflow Software",
       "release_date": "2019-12-12",
+      "price": 34,
       "comments": [
         {
           "id": 41,
@@ -102,6 +106,7 @@
       "publisher": "Targem",
       "developer": "Gaijin",
       "release_date": "2017-05-30",
+      "price": 34,
       "comments": [
         {
           "id": 51,
@@ -125,6 +130,7 @@
       "publisher": "NCSoft",
       "developer": "NCSoft",
       "release_date": "2016-01-19",
+      "price": 34,
       "comments": [
         {
           "id": 61,
@@ -148,6 +154,7 @@
       "publisher": "My.com (Mail.ru Group)",
       "developer": "Obsidian Entertainment",
       "release_date": "2015-10-08",
+      "price": 34,
       "comments": [
         {
           "id": 71,
@@ -171,6 +178,7 @@
       "publisher": "Trion Worlds",
       "developer": "Trion Worlds",
       "release_date": "2015-07-09",
+      "price": 34,
       "comments": [
         {
           "id": 81,
@@ -194,6 +202,7 @@
       "publisher": "Wargaming",
       "developer": "Wargaming",
       "release_date": "2015-07-02",
+      "price": 34,
       "comments": [
         {
           "id": 91,
@@ -217,6 +226,7 @@
       "publisher": "Kakao Games",
       "developer": "XL Games",
       "release_date": "2014-09-04",
+      "price": 34,
       "comments": [
         {
           "id": 101,
@@ -240,6 +250,7 @@
       "publisher": "Perfect World Entertainment",
       "developer": "Cryptic Studios",
       "release_date": "2013-12-06",
+      "price": 34,
       "comments": [
         {
           "id": 111,
@@ -263,6 +274,7 @@
       "publisher": "Gaijin Entertainment",
       "developer": "Gaijin Entertainment",
       "release_date": "2013-08-15",
+      "price": 34,
       "comments": [
         {
           "id": 121,
@@ -286,6 +298,7 @@
       "publisher": "NCsoft",
       "developer": "ArenaNet",
       "release_date": "2012-08-28",
+      "price": 34,
       "comments": [
         {
           "id": 131,
@@ -309,6 +322,7 @@
       "publisher": "Perfect World Entertainment",
       "developer": " Cryptic Studios",
       "release_date": "2010-02-02",
+      "price": 34,
       "comments": [
         {
           "id": 141,
@@ -332,6 +346,7 @@
       "publisher": "Neowiz Games",
       "developer": "SmileGate",
       "release_date": "2007-05-03",
+      "price": 34,
       "comments": [
         {
           "id": 151,
@@ -355,6 +370,7 @@
       "publisher": "Roblox Corporation",
       "developer": "Roblox Corporation",
       "release_date": "2006-12-22",
+      "price": 34,
       "comments": [
         {
           "id": 161,
@@ -378,6 +394,7 @@
       "publisher": "MindArk",
       "developer": "MindArk",
       "release_date": "2003-01-30",
+      "price": 34,
       "comments": [
         {
           "id": 171,
@@ -401,6 +418,7 @@
       "publisher": "Linden Lab",
       "developer": "Linden Lab",
       "release_date": "2003-06-23",
+      "price": 34,
       "comments": [
         {
           "id": 181,
@@ -424,6 +442,7 @@
       "publisher": "Betadwarf",
       "developer": "Betadwarf",
       "release_date": "2019-05-24",
+      "price": 34,
       "comments": [
         {
           "id": 191,
@@ -447,6 +466,7 @@
       "publisher": "1047 Games",
       "developer": "1047 Games",
       "release_date": "2019-05-22",
+      "price": 34,
       "comments": [
         {
           "id": 201,
@@ -470,6 +490,7 @@
       "publisher": "Bungie",
       "developer": "Bungie",
       "release_date": "2019-10-01",
+      "price": 34,
       "comments": [
         {
           "id": 211,
@@ -493,6 +514,7 @@
       "publisher": "Juvty Worlds Ltd.",
       "developer": "Juvty Worlds Ltd.",
       "release_date": "2017-12-18",
+      "price": 34,
       "comments": [
         {
           "id": 221,
@@ -516,6 +538,7 @@
       "publisher": "Electronic Arts",
       "developer": "Electronic Arts",
       "release_date": "2019-02-04",
+      "price": 34,
       "comments": [
         {
           "id": 231,
@@ -539,6 +562,7 @@
       "publisher": "Valve",
       "developer": "Valve, Hidden Path Entertainment",
       "release_date": "2012-08-21",
+      "price": 34,
       "comments": [
         {
           "id": 241,
@@ -562,6 +586,7 @@
       "publisher": "Neowiz",
       "developer": "Neowiz Bless Studio",
       "release_date": "2018-05-30",
+      "price": 34,
       "comments": [
         {
           "id": 251,
@@ -585,6 +610,7 @@
       "publisher": "Nexon",
       "developer": "Wizet",
       "release_date": "2018-10-10",
+      "price": 34,
       "comments": [
         {
           "id": 261,
@@ -608,6 +634,7 @@
       "publisher": " MercurySteam Entertainment",
       "developer": "MercurySteam",
       "release_date": "2018-09-22",
+      "price": 34,
       "comments": [
         {
           "id": 281,
@@ -631,6 +658,7 @@
       "publisher": "Tencent Games",
       "developer": "Tencent Games",
       "release_date": "2018-09-19",
+      "price": 34,
       "comments": [
         {
           "id": 291,
@@ -654,6 +682,7 @@
       "publisher": "Bethesda Softworks",
       "developer": "id Software",
       "release_date": "2017-08-22",
+      "price": 34,
       "comments": [
         {
           "id": 301,
